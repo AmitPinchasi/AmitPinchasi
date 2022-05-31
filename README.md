@@ -20,11 +20,11 @@
 
 ### 🔭 &nbsp;I’m currently working on:
 -
-	- [ ] 32 bit os
+	- [X] 32 bit os
 	- [X] pwnable.kr
-	- [ ] doing interviews
-	- [ ] virtual machine for chip8
-	- [ ] ctfs with hacking team doing pwn, re , crypto, forensics
+	- [X] doing interviews
+	- [X] virtual machine for chip8
+	- [X] ctfs with hacking team doing pwn, re , crypto, forensics
 
 
 
