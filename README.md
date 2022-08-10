@@ -20,11 +20,11 @@
 
 ### 🔭 &nbsp;I’m currently working on:
 -
-	- [X] 32 bit os
+	- [X] 32 bit os (POS)
 	- [X] pwnable.kr
-	- [X] doing interviews
+	- [X] working at watchful as a researcher
 	- [X] virtual machine for chip8
-	- [X] ctfs with hacking team doing pwn, re , crypto, forensics
+	- [X] part of pwnjuice ctf team
 
 
 
